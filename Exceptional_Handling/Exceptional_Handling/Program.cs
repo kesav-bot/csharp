@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("=== Exception Handling Example ===");
 
         try
         {
