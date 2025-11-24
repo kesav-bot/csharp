@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\csharpLearning\\Variables_Data Types_Operators\\",
+  "WorkspaceRootPath": "C:\\Learning\\csharp\\Variables_Data Types_Operators\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25612092-BADF-4B05-919C-70970DC22C71}|Variables_Data Types_Operators\\Variables_Data Types_Operators.csproj|c:\\csharplearning\\variables_data types_operators\\variables_data types_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25612092-BADF-4B05-919C-70970DC22C71}|Variables_Data Types_Operators\\Variables_Data Types_Operators.csproj|c:\\learning\\csharp\\variables_data types_operators\\variables_data types_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25612092-BADF-4B05-919C-70970DC22C71}|Variables_Data Types_Operators\\Variables_Data Types_Operators.csproj|solutionrelative:variables_data types_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,21 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\csharpLearning\\Variables_Data Types_Operators\\Variables_Data Types_Operators\\Program.cs",
+              "DocumentMoniker": "C:\\Learning\\csharp\\Variables_Data Types_Operators\\Variables_Data Types_Operators\\Program.cs",
               "RelativeDocumentMoniker": "Variables_Data Types_Operators\\Program.cs",
-              "ToolTip": "C:\\csharpLearning\\Variables_Data Types_Operators\\Variables_Data Types_Operators\\Program.cs",
+              "ToolTip": "C:\\Learning\\csharp\\Variables_Data Types_Operators\\Variables_Data Types_Operators\\Program.cs",
               "RelativeToolTip": "Variables_Data Types_Operators\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:40:13.661Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

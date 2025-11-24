@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        // VARIABLES + DATA TYPES
+        // datatypes and variables
         int age = 23;
         double salary = 45000.75;
         string name = "Kesavan";
