@@ -1,0 +1,7 @@
+C:\csharpLearning\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.exe.config
+C:\csharpLearning\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.exe
+C:\csharpLearning\Access_Modifier\Access_Modifier\bin\Debug\Access_Modifier.pdb
+C:\csharpLearning\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.csproj.AssemblyReference.cache
+C:\csharpLearning\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.csproj.CoreCompileInputs.cache
+C:\csharpLearning\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.exe
+C:\csharpLearning\Access_Modifier\Access_Modifier\obj\Debug\Access_Modifier.pdb
