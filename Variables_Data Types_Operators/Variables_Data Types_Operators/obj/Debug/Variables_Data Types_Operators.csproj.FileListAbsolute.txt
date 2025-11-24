@@ -1,7 +1,0 @@
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\bin\Debug\Variables_Data Types_Operators.exe.config
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\bin\Debug\Variables_Data Types_Operators.exe
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\bin\Debug\Variables_Data Types_Operators.pdb
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\obj\Debug\Variables_Data Types_Operators.csproj.AssemblyReference.cache
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\obj\Debug\Variables_Data Types_Operators.csproj.CoreCompileInputs.cache
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\obj\Debug\Variables_Data Types_Operators.exe
-C:\csharpLearning\Variables_Data Types_Operators\Variables_Data Types_Operators\obj\Debug\Variables_Data Types_Operators.pdb
