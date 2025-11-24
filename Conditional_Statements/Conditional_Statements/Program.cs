@@ -50,7 +50,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("You are a minor.");
+            Console.WriteLine("You are a child.");
         }
     }
 }
