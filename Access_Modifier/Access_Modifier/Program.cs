@@ -33,7 +33,7 @@ class DerivedClass : BaseClass
         Console.WriteLine("\nInside DerivedClass");
 
         Console.WriteLine(PublicVar);              
-        // Console.WriteLine(PrivateVar);          // not allowed
+        // Console.WriteLine(PrivateVar);          // not possible
         Console.WriteLine(ProtectedVar);        
         Console.WriteLine(InternalVar);             
         Console.WriteLine(ProtectedInternalVar);    
@@ -54,11 +54,11 @@ class Program
         Console.WriteLine("\nAccessing from Main()");
 
         Console.WriteLine(b.PublicVar);           
-        // Console.WriteLine(b.PrivateVar);         // not allowed
-        // Console.WriteLine(b.ProtectedVar);       // not allowed
+        // Console.WriteLine(b.PrivateVar);         // not possible
+        // Console.WriteLine(b.ProtectedVar);       // not possible
         Console.WriteLine(b.InternalVar);
         Console.WriteLine(b.ProtectedInternalVar);  
-        // Console.WriteLine(b.PrivateProtectedVar); // not allowed
+        // Console.WriteLine(b.PrivateProtectedVar); // not possible
 
         Console.WriteLine("\nProgram Ended.");
     }
