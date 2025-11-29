@@ -1,5 +1,4 @@
-﻿// Abstract class - Cannot be instantiated (you cannot create an object), Can contain abstract methods(no body), Can contain normal methods also
-//Interface - Contains only method signatures (no code), All methods are automatically abstract, A class must implement all methods inside an interface
+﻿// focuses on showing only essential information to the user and hiding unnecessary implementation details.
 
 using System;
 
